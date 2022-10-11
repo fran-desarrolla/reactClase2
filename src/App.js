@@ -5,6 +5,8 @@ function App() {
   return (
     <div className="App">
       <header className="App-header">
+        <h1>Hola mundo!!!</h1>
+        <h2>esto es react, es un bardo, por lo menos por ahora</h2>
         <img src={logo} className="App-logo" alt="logo" />
         <p>
           Edit <code>src/App.js</code> and save to reload.
